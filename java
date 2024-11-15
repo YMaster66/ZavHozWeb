@@ -1,5 +1,5 @@
 // MainActivity.java
-package com.example.zavhozapp;
+package https://ymaster66.github.io/ZavHozWeb/;
 
 import androidx.appcompat.app.AppCompatActivity;
 
